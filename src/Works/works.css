@@ -1,0 +1,35 @@
+
+.blocktext button {
+    border-radius: 16px;
+background: #142850;color: #FFF;
+font-size: 18px;
+padding: 3px;
+font-weight: 700;
+}
+.fgh {
+    display:flex ;
+}
+.fgh p {
+    color: var(--Light, #8695A4);
+font-size: 20px;
+font-weight: 400;
+}
+.fgh {
+    margin: 10px;
+}
+.fgh button {
+    margin:  0  18px 0 0 ;
+}
+.blocktext {
+    margin:  25px  ;
+}
+#works h4 {
+    color: var(--Dark-Color, #21243D);
+font-size: 22px;
+font-weight: 400;
+line-height: 272.727%; /*  */
+margin-left: 30px;
+}
+.block-1 {
+    margin: 30px;
+}

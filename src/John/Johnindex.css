@@ -1,0 +1,40 @@
+.john h1 {
+    color: var(--Dark-Color, #21243D);
+font-size: 44px;
+font-weight: 700;
+line-height: 136.364%; /*  */
+}
+.john  p{
+    color: var(--Dark-Color, #21243D);
+    font-size: 20px;
+    font-weight: 200;
+
+}
+.john button {
+    border-radius: 2px;
+background: var(--Primary, #FF6464);color: #FFF;
+font-size: 20px;
+font-weight: 500;
+padding: 10px 10px;
+}
+button {
+    border: none;
+}
+.john p {
+    margin: 25px 0 ;
+}
+.john {
+    display: flex;
+}
+#john{
+    margin-top: 120px;
+}
+.john1{
+    margin-right: 200px;
+}
+.john img {
+    width: 250px;
+}
+.john1 button {
+    cursor: pointer;
+}
